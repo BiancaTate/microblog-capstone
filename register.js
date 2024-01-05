@@ -28,7 +28,7 @@ function registerUser(event) {
       console.log("am I running?");
       registrationComplete.innerHTML = `
         <p>You have successfully created an account. 
-        <a href="/">Click here to login.</a>
+        </a>
       `;
       // window.location.assign("/")
     });

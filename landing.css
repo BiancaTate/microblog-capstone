@@ -8,7 +8,7 @@
 section{
     width: 100%;
     height: 100vh;
-    background-color: #fafafa;
+    background-color: sec
     padding: 35px 0px
 }
 
@@ -129,9 +129,4 @@ small{
 
 .P{
     background-color:white;
-}
-
-*{
-    background-image: url(/pictures/background\ loginpage.jpg);
-    
 }
