@@ -131,7 +131,17 @@ small{
     background-color:white;
 }
 
-*{
+section {
+    background-color: skyblue;
+  }
+
+
+  /* section {
+    width: 100%;
+    height: 100vh;
     background-image: url(/pictures/background\ loginpage.jpg);
-    
-}
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 35px 0px;
+  } */
